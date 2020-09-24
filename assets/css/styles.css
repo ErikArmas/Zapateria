@@ -1,0 +1,41 @@
+/*
+paleta de colores
+#581845
+#900C3F
+#C700039
+#FF5733
+#FFC30F
+
+*/
+.conten-nav{
+	color: #fff;
+	background: #900C3F;
+	border-radius: 0;
+}
+
+
+
+.btn-uno{
+	color: #fff;
+	background: #FFC30F;
+}
+
+.text-yellow{
+	color: #FFC30F;
+}
+
+.bg-uno{
+	background: #581845; 
+}
+
+.bg-dos{
+	background: #900C3F;
+}
+
+.bg-tres{
+	background: #C70039;
+}
+
+.ocultar{
+	display: none;
+}
